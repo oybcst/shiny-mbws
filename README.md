@@ -1,5 +1,6 @@
-# shiny_mbws
+# shiny-mbws
 RShiny for Watershed
+- A draft [shiny-mbws is online at shinyapps.io](https://lisalenorelowe.shinyapps.io/shiny-mbws)
 
 The file "preprocess.R" shows how I made dataframes for R Shiny with the initial Excel spreadsheets in the [Watershed Notebook](https://github.com/oybcst/watershed-simulated-vs-observed).
 
@@ -10,7 +11,7 @@ To try it, and modify:
 - Open R Studio
 - Go to the directory containing the files
 - When you open ui.R, global.R, or server.R, there will be a button "Run App", instead of the usual "Run".
-- Then hopefully you just hit "Run App" and it looks like this, hosted on shinyio: [shiny-mbws](https://lisalenorelowe.shinyapps.io/shiny-mbws)
+- Then hopefully you just hit "Run App" and it works, and looks like the one on shinyapps.io.
 
 The names are weird because this just starts with shiny_mb and hacks away.  Here is shiny_mb
 - [shiny_mb on shinyapps.io](https://lisalenorelowe.shinyapps.io/shiny-mb/)
