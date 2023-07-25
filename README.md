@@ -14,7 +14,7 @@ To try it, and modify:
 
 The names are weird because this just starts with shiny_mb and hacks away.  Here is shiny_mb
 - [shiny_mb on shinyapps.io](https://lisalenorelowe.shinyapps.io/shiny-mb/)
-- [Code for the shiny_mb]
+- [Code for the shiny_mb](https://github.com/oybcst/shiny-mb)
 
 And here is another example, Lake Erie, I don't have it on github yet, but again, it's pretty much the same thing.
 - [Lake Erie TP](https://lisalenorelowe.shinyapps.io/shiny-leem/)
